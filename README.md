@@ -9,7 +9,7 @@ If you make a lot of money in finance, you enjoyed it, give most of it away
 Give it away while still young, if you amass money and get old, you may become self-indulgent
 
 — Robert Shiller, Yale University
----
+
 
 
 
