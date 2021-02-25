@@ -53,7 +53,7 @@ presented discounted value
 
 ### Consol and Annuity
 
-consol: type of a bond. doesn't expire
+consol: type of a bond. doesn't expire (영구채권 - 영국에서...)
 
 annuity: 연금
 
@@ -82,4 +82,123 @@ put more money into an asset than you can
 
 
 ## Lesson9
+
+### Market Capitalization by Country
+
+market capitalization(시가 총액) = price per share * number of shares
+
+US stock market is not America.
+
+미국주식에 미치다 TV 
+
+- S&P 500 투자하면, 대부분 다국적 기업이기 때문에, 자동적으로 다른 나라에 투자가 된다
+- 자동적으로 risk 관리가 된다 
+- USD 달러로, 다른 외국 currency에 투자가 될수도 있다
+- 메르까도리브레 아르헨티나 기업 (미국 상장 기업) 
+
+liability = debt
+
+add everything that house hold has = stock, household, fund, etc.. 
+
+and subtract it with debt -> household net worth
+
+most part of money is locked up on housings?
+
+
+
+### The Corporation
+
+what is a stock? 
+
+corporation = a body, artificial person
+
+1 share = 1 vote in corporate decision making
+
+NPO = do not distribute their profits to the shareholders
+
+FPO = shareholders take the money
+
+NPO should be defined with a purpose which will motivate the use of the profits
+
+
+
+### Shares and Dividends
+
+when you get shares, you have to think in a relative perspective, how many do I have compared to the total?
+
+number of shares can be split 
+
+berkshire hathaway is famous for not splitting stocks
+
+capital gains + dividends = reason for buying stocks
+
+after they distribute dividends, the stock price goes down 
+
+
+
+### Common vs. Preferred
+
+commons stock(보통주): cannot receive dividends until preferred stock dividends have been paid up
+
+preferred stock(우선주): has a specified dividend which doesn't grow through time, but doesn't have voting right
+
+
+
+### Corporate Charter (기업 헌장, 정관, 법인 세울 때 필요한 것, 회사 규칙)
+
+every share gets same dividends if board decided to pay
+
+different classes of shares have different amount of voting rights
+
+https://news.joins.com/article/23991160
+
+
+
+### Corporations Raise Money
+
+1. save money and retain earning
+2. borrow money, issue debt,
+3. issue shares (dilution) -> 대한항공
+
+
+
+### Dilution
+
+if you get dividends as stock, you've gotten diluted
+
+
+
+### Share Repurchase
+
+company buys back it's own shares
+
+reverse of dilution 
+
+alternative way of paying dividends 
+
+it allows you(company) to postpone capital taxes?
+
+
+
+### PDV of Expected Dividends
+
+price earning ratio
+
+price dividend ratio
+
+price of a share = PDV of it's expected future dividends
+
+Securities Analysis
+
+
+
+### Why do firms pay dividends?
+
+self control theory of dividends - 뭐더라.. 
+
+- principal: 원금
+
+Signaling theory - proves that I'm good
+
+Lintner Model of Dividends 
 
