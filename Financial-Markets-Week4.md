@@ -4,18 +4,22 @@ This is a review on Week4 course of Financial Markets on Coursera.
 
 ## Goals
 
-- Describe the implications and institutions associated with the short term interest rate, and describe how to compute single and compound interest.
-- Identify the difference between coupon and discount bonds, and calculate the present discounted value of discount bonds.
-- Determine the origin, the meaning and the valuation of two debt securities: consols and annuities.
-- Understand the meaning of forward rates and to describe how to calculate them
-- Define the meaning and how to calculate the market capitalization of a company.
-- Explain the structure of corporations in the U.S. and the implications of owning shares in a company.
-- Identify the differences between common and preferred stocks, and the concepts of dilution and dividends.
-- Describe how and why companies repurchase their shares.
-- Describe the basics of corporate governance.
-- Further understand the pricing of stocks and the price-to-earnings ratio.
+Take a look into the recent past, exploring recessions, bubbles, the mortgage crisis, and regulation.
+
+- Understand the history and key concepts of mortgages.
+- Describe the differences between DPPs and REITs.
+- Explain the relationship between the 10 year treasury bond YTM and the 30 year mortgage rate.
+- Describe the housing market before the bubble, and what led to the crash in 2007.
+- Define CMOs and CDOs
+- Describe microprudential and macroprudential regulation, and the concept of regulation.
+- Define tunneling and give examples.
+- Describe the differences between state and national regulation in the U.S.; describe the role of the SEC.
+- Give examples of front running, indiser trading, and how brokerage failure can impact the stock market.
+- Identify the role of regulatory bodies, and forwards and futures.
 
 ## Lesson10 
+
+### Salon - Recessions
 
 
 
